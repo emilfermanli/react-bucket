@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/react-bucket/static/css/main.9d43707a.chunk.css",
+    "main.js": "/react-bucket/static/js/main.b6cbeb27.chunk.js",
+    "main.js.map": "/react-bucket/static/js/main.b6cbeb27.chunk.js.map",
+    "runtime-main.js": "/react-bucket/static/js/runtime-main.46dc36a9.js",
+    "runtime-main.js.map": "/react-bucket/static/js/runtime-main.46dc36a9.js.map",
+    "static/css/2.765f46be.chunk.css": "/react-bucket/static/css/2.765f46be.chunk.css",
+    "static/js/2.df4ab62b.chunk.js": "/react-bucket/static/js/2.df4ab62b.chunk.js",
+    "static/js/2.df4ab62b.chunk.js.map": "/react-bucket/static/js/2.df4ab62b.chunk.js.map",
+    "index.html": "/react-bucket/index.html",
+    "precache-manifest.8f671094c735adc202ab773660f74c7d.js": "/react-bucket/precache-manifest.8f671094c735adc202ab773660f74c7d.js",
+    "service-worker.js": "/react-bucket/service-worker.js",
+    "static/css/2.765f46be.chunk.css.map": "/react-bucket/static/css/2.765f46be.chunk.css.map",
+    "static/css/main.9d43707a.chunk.css.map": "/react-bucket/static/css/main.9d43707a.chunk.css.map",
+    "static/js/2.df4ab62b.chunk.js.LICENSE.txt": "/react-bucket/static/js/2.df4ab62b.chunk.js.LICENSE.txt",
+    "static/media/style.css": "/react-bucket/static/media/bg_6.ca1606ab.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.46dc36a9.js",
+    "static/css/2.765f46be.chunk.css",
+    "static/js/2.df4ab62b.chunk.js",
+    "static/css/main.9d43707a.chunk.css",
+    "static/js/main.b6cbeb27.chunk.js"
+  ]
+}
