@@ -1,0 +1,50 @@
+@media (max-width: 998.98px) { 
+    .xs-hidden {
+        display: none;
+    }
+    .mb-cntr {
+        width: 100%;
+        h1{
+            text-align: center !important;
+        }
+        .mouse {
+            margin-top: 120px;
+        }
+    }
+    .mob-mn {
+        text-align: center;
+    }
+    .center-text {
+        font-size: 50px !important;
+        
+    }
+    .item {
+        width: 100% !important;
+    }
+    .video-text {
+        padding: 20px !important;
+    }
+    .mb-pr {
+        margin-top: 60px;
+    }
+    .discount-event {
+        font-size: 75px !important;
+    } 
+    .small {
+        font-size: 25px !important;
+    }
+
+    #cart {
+        .cart-table {
+            padding: 0px;
+        }
+        .mb-bckt {
+            display: flex;
+            flex-flow: column;
+            height: auto;
+        }
+    }
+    #hero-img{
+        background-position: right !important;
+    }
+ }
