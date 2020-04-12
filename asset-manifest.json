@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/react-bucket/static/css/main.e8f5fb1c.chunk.css",
+    "main.css": "/react-bucket/static/css/main.f5a97b63.chunk.css",
     "main.js": "/react-bucket/static/js/main.cf0ae215.chunk.js",
     "main.js.map": "/react-bucket/static/js/main.cf0ae215.chunk.js.map",
     "runtime-main.js": "/react-bucket/static/js/runtime-main.46dc36a9.js",
@@ -9,10 +9,10 @@
     "static/js/2.332c91c1.chunk.js": "/react-bucket/static/js/2.332c91c1.chunk.js",
     "static/js/2.332c91c1.chunk.js.map": "/react-bucket/static/js/2.332c91c1.chunk.js.map",
     "index.html": "/react-bucket/index.html",
-    "precache-manifest.90f32c6c646e652771af66577e372b51.js": "/react-bucket/precache-manifest.90f32c6c646e652771af66577e372b51.js",
+    "precache-manifest.4ca440d838e6129d30191097dd72be6e.js": "/react-bucket/precache-manifest.4ca440d838e6129d30191097dd72be6e.js",
     "service-worker.js": "/react-bucket/service-worker.js",
     "static/css/2.765f46be.chunk.css.map": "/react-bucket/static/css/2.765f46be.chunk.css.map",
-    "static/css/main.e8f5fb1c.chunk.css.map": "/react-bucket/static/css/main.e8f5fb1c.chunk.css.map",
+    "static/css/main.f5a97b63.chunk.css.map": "/react-bucket/static/css/main.f5a97b63.chunk.css.map",
     "static/js/2.332c91c1.chunk.js.LICENSE.txt": "/react-bucket/static/js/2.332c91c1.chunk.js.LICENSE.txt",
     "static/media/style.css": "/react-bucket/static/media/bg_6.ca1606ab.jpg"
   },
@@ -20,7 +20,7 @@
     "static/js/runtime-main.46dc36a9.js",
     "static/css/2.765f46be.chunk.css",
     "static/js/2.332c91c1.chunk.js",
-    "static/css/main.e8f5fb1c.chunk.css",
+    "static/css/main.f5a97b63.chunk.css",
     "static/js/main.cf0ae215.chunk.js"
   ]
 }
