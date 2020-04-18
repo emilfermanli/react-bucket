@@ -1,26 +1,28 @@
 {
   "files": {
-    "main.css": "/react-bucket/static/css/main.b849151f.chunk.css",
-    "main.js": "/react-bucket/static/js/main.c5dac3de.chunk.js",
-    "main.js.map": "/react-bucket/static/js/main.c5dac3de.chunk.js.map",
+    "main.css": "/react-bucket/static/css/main.44ae8d94.chunk.css",
+    "main.js": "/react-bucket/static/js/main.3e6f66c3.chunk.js",
+    "main.js.map": "/react-bucket/static/js/main.3e6f66c3.chunk.js.map",
     "runtime-main.js": "/react-bucket/static/js/runtime-main.46dc36a9.js",
     "runtime-main.js.map": "/react-bucket/static/js/runtime-main.46dc36a9.js.map",
     "static/css/2.765f46be.chunk.css": "/react-bucket/static/css/2.765f46be.chunk.css",
-    "static/js/2.388cbc14.chunk.js": "/react-bucket/static/js/2.388cbc14.chunk.js",
-    "static/js/2.388cbc14.chunk.js.map": "/react-bucket/static/js/2.388cbc14.chunk.js.map",
+    "static/js/2.be9498cd.chunk.js": "/react-bucket/static/js/2.be9498cd.chunk.js",
+    "static/js/2.be9498cd.chunk.js.map": "/react-bucket/static/js/2.be9498cd.chunk.js.map",
     "index.html": "/react-bucket/index.html",
-    "precache-manifest.d350de2c1195cb82f5ccca4a3575d99d.js": "/react-bucket/precache-manifest.d350de2c1195cb82f5ccca4a3575d99d.js",
+    "precache-manifest.28aedf52ceba77abb6d96cd14ac4c619.js": "/react-bucket/precache-manifest.28aedf52ceba77abb6d96cd14ac4c619.js",
     "service-worker.js": "/react-bucket/service-worker.js",
     "static/css/2.765f46be.chunk.css.map": "/react-bucket/static/css/2.765f46be.chunk.css.map",
-    "static/css/main.b849151f.chunk.css.map": "/react-bucket/static/css/main.b849151f.chunk.css.map",
-    "static/js/2.388cbc14.chunk.js.LICENSE.txt": "/react-bucket/static/js/2.388cbc14.chunk.js.LICENSE.txt",
-    "static/media/style.css": "/react-bucket/static/media/bg_6.ca1606ab.jpg"
+    "static/css/main.44ae8d94.chunk.css.map": "/react-bucket/static/css/main.44ae8d94.chunk.css.map",
+    "static/js/2.be9498cd.chunk.js.LICENSE.txt": "/react-bucket/static/js/2.be9498cd.chunk.js.LICENSE.txt",
+    "static/media/style.css": "/react-bucket/static/media/bg_6.ca1606ab.jpg",
+    "static/media/hr.png": "/react-bucket/static/media/hr.c54a322d.png",
+    "static/media/nwrd.gif": "/react-bucket/static/media/nwrd.9211201f.gif"
   },
   "entrypoints": [
     "static/js/runtime-main.46dc36a9.js",
     "static/css/2.765f46be.chunk.css",
-    "static/js/2.388cbc14.chunk.js",
-    "static/css/main.b849151f.chunk.css",
-    "static/js/main.c5dac3de.chunk.js"
+    "static/js/2.be9498cd.chunk.js",
+    "static/css/main.44ae8d94.chunk.css",
+    "static/js/main.3e6f66c3.chunk.js"
   ]
 }
