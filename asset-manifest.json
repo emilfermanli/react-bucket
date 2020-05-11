@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/react-bucket/static/css/main.3abdc468.chunk.css",
-    "main.js": "/react-bucket/static/js/main.36ce3163.chunk.js",
-    "main.js.map": "/react-bucket/static/js/main.36ce3163.chunk.js.map",
+    "main.css": "/react-bucket/static/css/main.146e98ca.chunk.css",
+    "main.js": "/react-bucket/static/js/main.d86b684b.chunk.js",
+    "main.js.map": "/react-bucket/static/js/main.d86b684b.chunk.js.map",
     "runtime-main.js": "/react-bucket/static/js/runtime-main.46dc36a9.js",
     "runtime-main.js.map": "/react-bucket/static/js/runtime-main.46dc36a9.js.map",
     "static/css/2.765f46be.chunk.css": "/react-bucket/static/css/2.765f46be.chunk.css",
-    "static/js/2.4ee97349.chunk.js": "/react-bucket/static/js/2.4ee97349.chunk.js",
-    "static/js/2.4ee97349.chunk.js.map": "/react-bucket/static/js/2.4ee97349.chunk.js.map",
+    "static/js/2.c9a337a1.chunk.js": "/react-bucket/static/js/2.c9a337a1.chunk.js",
+    "static/js/2.c9a337a1.chunk.js.map": "/react-bucket/static/js/2.c9a337a1.chunk.js.map",
     "index.html": "/react-bucket/index.html",
-    "precache-manifest.74c24f29cd3327e07811b246aad14061.js": "/react-bucket/precache-manifest.74c24f29cd3327e07811b246aad14061.js",
+    "precache-manifest.16aadf35e53e78d039298cc847dc006d.js": "/react-bucket/precache-manifest.16aadf35e53e78d039298cc847dc006d.js",
     "service-worker.js": "/react-bucket/service-worker.js",
     "static/css/2.765f46be.chunk.css.map": "/react-bucket/static/css/2.765f46be.chunk.css.map",
-    "static/css/main.3abdc468.chunk.css.map": "/react-bucket/static/css/main.3abdc468.chunk.css.map",
-    "static/js/2.4ee97349.chunk.js.LICENSE.txt": "/react-bucket/static/js/2.4ee97349.chunk.js.LICENSE.txt",
+    "static/css/main.146e98ca.chunk.css.map": "/react-bucket/static/css/main.146e98ca.chunk.css.map",
+    "static/js/2.c9a337a1.chunk.js.LICENSE.txt": "/react-bucket/static/js/2.c9a337a1.chunk.js.LICENSE.txt",
     "static/media/style.css": "/react-bucket/static/media/bg_6.ca1606ab.jpg",
     "static/media/hr.png": "/react-bucket/static/media/hr.c54a322d.png",
     "static/media/loading.gif": "/react-bucket/static/media/loading.b931bf60.gif",
@@ -22,8 +22,8 @@
   "entrypoints": [
     "static/js/runtime-main.46dc36a9.js",
     "static/css/2.765f46be.chunk.css",
-    "static/js/2.4ee97349.chunk.js",
-    "static/css/main.3abdc468.chunk.css",
-    "static/js/main.36ce3163.chunk.js"
+    "static/js/2.c9a337a1.chunk.js",
+    "static/css/main.146e98ca.chunk.css",
+    "static/js/main.d86b684b.chunk.js"
   ]
 }
